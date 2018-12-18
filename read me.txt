@@ -1,0 +1,6 @@
+SPELL CHECKER README
+The "Spell Checker" application is supposed to check single_words_test.txt and sentences_test.txt for spelling mistakes.(or from text typed in stdin) 
+First it reads the input text files(single_words_test.txt , sentences_test.txt) as well as the dictionary.txt and saves them into 3 different arrays for each one of them.
+Then it compares the words included in the input files (single_words_test.txt , sentences_test.txt) with the words included in the dictionary with a binary search, for spelling mistakes. 
+
+The tools were used to build this application are Notepad++ and Developer Command Prompt for VS2013 & VS2015
